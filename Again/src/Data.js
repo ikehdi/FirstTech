@@ -1,0 +1,103 @@
+export const Data = [{
+    id: 1,
+    img:  "../src/assets/img1.jpeg",
+   
+    title: "BUSINESS IDEAS",
+    name: "Business Ideas for 2024: Africa's Top 100 Most Lucrative Opportunities",
+    preName: "JOHN-PAUL IWUOHA",
+    date: "January 20, 2024",
+},
+{    id: 2,
+    img:  "../src/assets/img2.jpeg",
+   
+    title: "BUSINESS IDEAS",
+    name: "Waste & Recycling Business Ideas for 2024: Africa's top opportunities",
+    preName: "JOHN-PAUL IWUOHA",
+    date: "January 20, 2024",
+},
+{
+    id: 3,
+    img:  "../src/assets/img2.jpeg",
+   
+    title: "BUSINESS IDEAS",
+    name: "Mining Business Ideas for 2024: Africa's top opportunities",
+    preName: "JOHN-PAUL IWUOHA",
+    date: "January 20, 2024",
+},
+{
+    id: 4,
+    img:  "../src/assets/img2.jpeg",
+    title: "BUSINESS IDEAS",
+    name: "Building & Construction business ideas for 2024: Africa's top opportunities",
+    preName: "JOHN-PAUL IWUOHA",
+    date: "January 20, 2024",
+},
+{
+    id: 5,
+    img:  "../src/assets/img2.jpeg",
+    title: "BUSINESS IDEAS",
+    name: "Business Ideas for Women in 2024: Africa's top opportunities",
+    preName: "JOHN-PAUL IWUOHA",
+    date: "September 20, 2024",
+},
+{
+    id:6,
+    img:  "../src/assets/img2.jpeg",
+    title: "BUSINESS IDEAS",
+    name: "Side Hustle Business Ideas for 2024: 24 businesses you can start for extra income this year",
+    preName: "JOHN-PAUL IWUOHA",
+    date: "September 20, 2024",
+},
+
+{
+    id:7,
+    img:  "../src/assets/img2.jpeg",
+    title: "BUSINESS IDEAS",
+    name: "Financial Services Business Ideas for 2024: Africa's top opportunities",
+    preName: "JOHN-PAUL IWUOHA",
+    date: "September 20, 2024",
+},
+{
+    id:8,
+    img:  "../src/assets/img2.jpeg",
+    title: "BUSINESS IDEAS",
+    name: "Online Business Ideas for 2024: Africa's top opportunities",
+    preName: "JOHN-PAUL IWUOHA",
+    date: "September 20, 2024",
+},
+{
+    id:9,
+    img:  "../src/assets/img2.jpeg",
+    title: "BUSINESS IDEAS",
+    name: "Home Business Ideas for 2024: 40 businesses you can start from home this year",
+    preName: "JOHN-PAUL IWUOHA",
+    date: "September 20, 2024",
+},
+{
+    id:10,
+    img:  "../src/assets/img2.jpeg",
+    title: "BUSINESS IDEAS",
+    name: "Government & Public Sector Business Ideas for 2024: Africa's Top Opportunities",
+    preName: "JOHN-PAUL IWUOHA",
+    date: "September 20, 2024",
+},
+{
+    id:11,
+    img:  "../src/assets/img2.jpeg",
+    title: "BUSINESS IDEAS",
+    name: "Sports Business Ideas for 2024: Africa's top opportunities",
+    preName: "JOHN-PAUL IWUOHA",
+    date: "September 20, 2024",
+},
+{
+    id:12,
+    img:  "../src/assets/img2.jpeg",
+    title: "BUSINESS IDEAS",
+    name: "Business Ideas: How to find the best opportunities",
+    preName: "JOHN-PAUL IWUOHA",
+    date: "September 20, 2024",
+},
+
+]
+
+   
